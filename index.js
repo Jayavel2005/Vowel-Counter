@@ -19,6 +19,6 @@ function count(){
 
 function reset()
 {
-    let vowel_count = 1;   
+    let vowel_count = 0;   
     document.getElementById('showresult').innerHTML = `Vowels Count : ${vowel_count}`
 }
