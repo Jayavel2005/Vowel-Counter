@@ -26,7 +26,7 @@ Welcome to the Vowel Counter web app, where counting vowels becomes a fun and in
 
 ![Screenshot](/Vowel-Counter/assests/proof.png)
 
-Check out our live demo [here](https://your-app-demo-url.com) to see it in action!
+Check out our live demo [here](https://jayavel2005.github.io/Vowel-Counter/) to see it in action!
 
 ## Installation
 
