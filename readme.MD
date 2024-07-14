@@ -14,8 +14,7 @@ Welcome to the Vowel Counter web app, where counting vowels becomes a fun and in
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS (Bootstrap)
-- **JavaScript Libraries**: Bootstrap JavaScript, Popper.js (for Bootstrap tooltips)
+- **Frontend**: HTML, CSS ,Bootstrap ,JavaScript
 
 ## Usage
 
