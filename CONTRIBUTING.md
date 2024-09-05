@@ -68,4 +68,4 @@ If you need help or have any questions, feel free to open an issue on GitHub or 
 
 ## Thank You
 
-Thank you for contributing to the Vowel Counter Web App! Your support and contributions are greatly appreciated.
+Thank you for contributing to the Vowel Counter Web Application! Your support and contributions are greatly appreciated.
